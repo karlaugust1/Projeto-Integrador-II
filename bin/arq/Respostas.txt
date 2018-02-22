@@ -1,0 +1,480 @@
+1;1;Canadá
+2;1;Nepal
+3;1;Alaska
+4;1;Finlândia
+5;2;Amazônia
+6;2;Negra
+7;2;Sherwood
+8;2;Algonquin
+9;3;Translação
+10;3;Rotação
+11;3;Orientação
+12;3;Transição
+13;4;Estrelas
+14;4;Galáxias
+15;4;Planetas
+16;4;Nebulosas
+17;5;Granito
+18;5;Estalagmite
+19;5;Silte
+20;5;Argila
+21;6;Mesosfera
+22;6;Troposfera
+23;6;Lonosfera
+24;6;Exosfera
+25;7;577.723
+26;7;575.327
+27;7;924.935
+28;7;592.749
+29;8;Salvador
+30;8;Maceió
+31;8;Recife
+32;8;São Luis
+33;9;1.556.001
+34;9;1.654.502
+35;9;1.592.749
+36;9;924.924
+37;10;Amazônica
+38;10;Platina
+39;10;São Francisco
+40;10;Araguaia
+41;11;Savana
+42;11;Tropical
+43;11;Estepes
+44;11;Prafarias
+45;12;Damasco
+46;12;Arábia Saudita
+47;12;Helsinque
+48;12;Guatemala
+49;13;7.2
+50;13;6.3
+51;13;7.8
+52;13;7.3
+53;14;Casaquistão
+54;14;Grécia
+55;14;Polônia
+56;14;Macedonia
+57;15;América do Sul
+58;15;América do Norte
+59;15;América Central
+60;15;Europa
+61;16;Líbia
+62;16;Madagascar
+63;16;Indonésia
+64;16;Barbados
+65;17;37
+66;17;96
+67;17;45
+68;17;84
+69;18;Rússia
+70;18;Arábia Saudita
+71;18;Madagascar
+72;18;Grécia
+73;19;Mar da china
+74;19;Mar de bering
+75;19;Mar do caribe
+76;19;Mar do mediterrâneo
+77;20;Alemanha
+78;20;Suiça
+79;20;Austrália
+80;20;Itália
+81;21;Prudente de Morais
+82;21;Floriano Peixoto
+83;21;Nilo Peçanha
+84;21;João Goulart
+85;22;2011
+86;22;2010
+87;22;2012
+88;22;2009
+89;23;Juscelino Kubitschek
+90;23;Fernando Collor
+91;23;Jânio Quadros
+92;23;Ernesto Geisel
+93;24;Mencheviques
+94;24;Bolcheviques
+95;24;Nazistas
+96;24;Stalinistas
+97;25;Kerensky
+98;25;Lênin
+99;25;Rasputin
+100;25;Stalin
+101;26;Outubro
+102;26;Março
+103;26;Julho
+104;26;Setembro
+105;27;Erwin Rommel
+106;27;Karl Dönitz
+107;27;Hermann Göring
+108;27;Rudolf Hess
+109;28;Kursk
+110;28;Stalingrado
+111;28;Monte Cassino
+112;28;El Alamein
+113;29;Servos
+114;29;Nobres
+115;29;Clero
+116;29;Escravos
+117;30;Católica
+118;30;Islâmica
+119;30;Judaica
+120;30;Evangélica
+121;31;Feudo
+122;31;Colônia
+123;31;Colonato
+124;31;Fazenda
+125;32;Vassalagem
+126;32;Aliança
+127;32;Lealdade
+128;32;Fidelidade
+129;33;Senhor Feudal
+130;33;Vilão
+131;33;Guerreiro
+132;33;Fazendeiro
+133;34;Rio de Janeiro
+134;34;São Paulo
+135;34;Belo Horizonte
+136;34;Salvador
+137;35;João Goulart
+138;35;Juscelino Kubitscheck
+139;35;Getúlio Vargas
+140;35;Jânio Quadros
+141;36;Princesa Izabel
+142;36;Loana D'Arc
+143;36;Anita Garibaldi
+144;36;Imperatriz Leopoldina
+145;37;1 de abril de 1964
+146;37;15 de março de 1985
+147;37;27 de junho de 1962
+148;37;18 de julho de 1963
+149;38;1500
+150;38;1505
+151;38;1506
+152;38;1498
+153;39;1965
+154;39;1975
+155;39;1985
+156;39;1972
+157;40;15 de agosto de 1945
+158;40;30 de abril de 1945
+159;40;4 de fevereiro de 1945
+160;40;2 de maio de 1945
+161;41;32
+162;41;26
+163;41;20
+164;41;16
+165;42;Coração
+166;42;Pulmão
+167;42;Pancreas
+168;42;Cérebro
+169;43;Íris
+170;43;Retina
+171;43;Córnea
+172;43;Esclera
+173;44;Ouvido
+174;44;Garganta
+175;44;Nariz
+176;44;Pé
+177;45;Pescoço
+178;45;Boca
+179;45;Pulmões
+180;45;Traquéia
+181;46;12
+182;46;7
+183;46;10
+184;46;18
+185;47;Medula óssea
+186;47;Nervo
+187;47;Pele
+188;47;Artéria
+189;48;Nervos
+190;48;Medula óssea
+191;48;Músculos
+192;48;Veias
+193;49;Artéria
+194;49;Veia
+195;49;Pele
+196;49;Nervo
+197;50;Fêmur
+198;50;Radio
+199;50;Mandibula
+200;50;Patela
+201;51;Estômago
+202;51;Pâncreas
+203;51;Esôfago
+204;51;Fígado
+205;52;Fígado e músculos
+206;52;Tecido adiposo e fígado
+207;52;Músculos e tecido adiposo
+208;52;Estômago e fígado
+209;53;Na folha
+210;53;No tronco
+211;53;Nos galhos
+212;53;Na raiz
+213;54;Espermatozóide
+214;54;Epiderme da banana
+215;54;Cerebelo humano
+216;54;Tireóide
+217;55;Ribose e dessoxiribose
+218;55;Glicose e amido
+219;55;Glicose e ribose
+220;55;Dessoxiribose e frutose
+221;56;Ácido dexorribonucleíco
+222;56;Ácido ribonucleico
+223;56;Base adenina nitrogenada
+224;56;Purina ácido primidina
+225;57;Nucleotídeos
+226;57;RNA
+227;57;Carbono
+228;57;Moléculas de H2O
+229;58;Mitose
+230;58;Meiose
+231;58;Celulose
+232;58;Genoma
+233;59;Proteína catalisadora
+234;59;Proteina de defesa
+235;59;Proteína de reserva
+236;59;Proteína de transporte
+237;60;Sistema excretório
+238;60;Sistema endócrino
+239;60;Sistema nervoso
+240;60;Sistema reprodutor
+241;61;2013
+242;61;2012
+243;61;2014
+244;61;2015
+245;62;1993
+246;62;1994
+247;62;1992
+248;62;1995
+249;63;1984
+250;63;1985
+251;63;1983
+252;63;1982
+253;64;Popeye
+254;64;Mario
+255;64;Kong
+256;64;Yoshi
+257;65;42
+258;65;33
+259;65;28
+260;65;54
+261;66;1889
+262;66;1887
+263;66;1888
+264;66;1890
+265;67;Puck-Man
+266;67;Pac-Man
+267;67;Duck-Man
+268;67;Luck-Man
+269;68;Odyssey
+270;68;Atari
+271;68;Mega Drive
+272;68;Nintendo 64
+273;69;Blizzard
+274;69;Nintendo
+275;69;Capcom
+276;69;Sega
+277;70;Charlers Martinet
+278;70;Barry Dennen
+279;70;Bruce Miles
+280;70;Dave Fennoy
+281;71;Paul Mercier
+282;71;Matthew Mercer
+283;71;Paul Haddad
+284;71;Jason Faunt
+285;72;1976
+286;72;1978
+287;72;1972
+288;72;1975
+289;73;Minecraft
+290;73;Tetris
+291;73;Wii Sports
+292;73;Super Mario Bros
+293;74;Nintendo
+294;74;Sega
+295;74;Blizzard
+296;74;Capcom
+297;75;Sega
+298;75;Nintendo
+299;75;Capcom
+300;75;Sony
+301;76;The Last of Us
+302;76;Uncharted 2
+303;76;Dream Zone
+304;76;Jak e Daxter
+305;77;Gabe Newell
+306;77;Akio Morita
+307;77;Trip Hawkins
+308;77;Michael Morhaime
+309;78;1994
+310;78;1997
+311;78;1998
+312;78;1999
+313;79;StarFox 2
+314;79;Twelve Tales: Conker 64
+315;79;Sonic X-treme
+316;79;StarCraft: Ghost
+317;80;Risk
+318;80;Odyssey
+319;80;Detetive
+320;80;Combate
+321;81;COBOL
+322;81;FONTRAN
+323;81;LISP
+324;81;Java
+325;82;John W. Backus
+326;82;John MCCarthy
+327;82;Grace Hopper
+328;82;Dennis Ritchie
+329;83;Algol 58
+330;83;Fact
+331;83;Comtran
+332;83;Matic
+333;84;Ada Lovelace
+334;84;Charles Babbage
+335;84;Herman Hollerith
+336;84;Alonzo Church
+337;85;C
+338;85;Forth
+339;85;Pascal
+340;85;Smalltal
+341;86;GO
+342;86;R
+343;86;Perl
+344;86;Ruby
+345;87;Pascal
+346;87;FORTRAN
+347;87;GPSS
+348;87;LISP
+349;88;255
+350;88;128
+351;88;254
+352;88;127
+353;89;Corrado Bohm e Giuseppe Jacopini
+354;89;Edsger Dijktra e Edward Yourdon
+355;89;David Harel e Michael Anthony Jackson
+356;89;Dennis Ritchie e Ken Thompson
+357;90;Basic
+358;90;Pascal
+359;90;COBOL
+360;90;FONTRAN II
+361;91;C e Assembly
+362;91;C e Java Script
+363;91;Assembly e C++
+364;91;Java Script e C++
+365;92;2001
+366;92;2000
+367;92;2002
+368;92;2003
+369;93;Lua
+370;93;Snobol
+371;93;Modula
+372;93;Scheme
+373;94;Assembly
+374;94;Basic
+375;94;LISP
+376;94;C
+377;95;Inteligência artificial
+378;95;Cálculos matemáticos
+379;95;Simulações
+380;95;Banco de dados
+381;96;exit()
+382;96;vsnprintf()
+383;96;fread()
+384;96;rewind()
+385;97;Sun Microsystems
+386;97;Acornsoft
+387;97;Symantec
+388;97;Argonaut software
+389;98;Assembly
+390;98;C
+391;98;COBOL
+392;98;Forth
+393;99;28 de julho de 2011
+394;99;18 de março de 2014
+395;99;11 de dezembro de 2006
+396;99;30 de setembro de 2012
+397;100;Linguagens voltadas a inteligencia artificial
+398;100;Linguagens aplicativas
+399;100;Linguagens proceduais
+400;100;Linguagens de montagem
+401;101;Abu Bakr Al-Baghdadi
+402;101;Abu Fatima Al-Jaheishi
+403;101;Abu Ali Al-Anbari
+404;101;Adbel Baqer Al-Najdi
+405;102;Estado Islâmico
+406;102;Al-Qaeda
+407;102;Hezbollah
+408;102;Taliban
+409;103;Estado Islâmico
+410;103;Al-Qaeda
+411;103;Helzbollah
+412;103;Taliban
+413;104;Coréia do Norte
+414;104;China
+415;104;Russia
+416;104;Vietnam
+417;105;Venezuela
+418;105;Colombia
+419;105;Equador
+420;105;Bolivia
+421;106;Donald Trump
+422;106;Barack Obama
+423;106;George W. Bush
+424;106;Bill Clinton
+425;107;Uguru Kenyatta
+426;107;Raila Odinga
+427;107;Mwai Kibaki
+428;107;Daniel Arap Moi
+429;108;2016
+430;108;2015
+431;108;2014
+432;108;2017
+433;109;Europa
+434;109;África
+435;109;Ásia
+436;109;Ámérica do norte
+437;110;Jordânia
+438;110;Paquistão
+439;110;Irã
+440;110;Etiópia
+441;111;China
+442;111;Estados Unidos
+443;111;Brasil
+444;111;União Européia
+445;112;Setor agropecuário
+446;112;Setor de transportes
+447;112;Setor de manufatura
+448;112;Setor de extração de fósseis
+449;113;Theodore Berger
+450;113;Evan Spiegel
+451;113;Bobby Murphy
+452;113;Ray Kurzweil
+453;114;Nice
+454;114;Lyon
+455;114;Marseille
+456;114;Toulouse
+457;115;JBS
+458;115;Oldebrecht
+459;115;Petrobras
+460;115;Andrade Gutierrez
+461;116;55
+462;116;56
+463;116;54
+464;116;53
+465;117;Alemanha
+466;117;França
+467;117;Inglaterra
+468;117;Itália
+469;118;A cassação de Michel Temer
+470;118;Diminuição do preço das passagens
+471;118;Prissão do ex-presidente Lula
+472;118;Em defesa da lava jato
+473;119;João Doria
+474;119;Fernando Haddad
+475;119;Celso Russomanno
+476;119;Ricardo Young
+477;120;Energia solar
+478;120;Energia eólica
+479;120;Energia hidráulica
+480;120;Energia nuclear

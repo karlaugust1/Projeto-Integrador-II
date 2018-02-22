@@ -1,0 +1,120 @@
+1;1;9;1;Toronto é a capital de qual país?;1
+2;1;8;2;Qual é a maior floresta do planeta?;5
+3;1;9;3;Movimento executado pela Terra em torno do Sol:;9
+4;1;10;4;Corpos gasosos, dotados de luz própria e posuem elevadas temperaturas e pressões:;13
+5;1;6;5;Rocha magmática comum encontrada nas placas continentais da crosta terreste, composta essencialmente pelos minerais quartzo, mica e feldspato:;17
+6;1;11;6;Qual é a camada seguinte da estratosfera e tem uma espessura de cerca de 80 quilometros?;21
+7;1;2;7;Qual é área total do regiao sul do Brasil em quilometros quadrados?;25
+8;1;8;8;Qual é a capital da Bahia?;29
+9;1;7;9;Qual é a área total da região nordeste do Brasil?;33
+10;1;6;10;Qual é maior bacia hidrográfica encrontrada no Brasil?;37
+11;1;6;11;Qual o bioma típico de regiões de clima tropical, com uma estação chuvosa e outra seca?;41
+12;1;5;12;Qual cidade da Síria, também conhecida como Cidade do Jasmim, é uma das mais antigas habitadas continuamente no mundo?;45
+13;1;8;13;Qual é a população mundial atual (2017) em bilhões?;49
+14;1;13;14;É o maior país sem consta marítima do mundo e o nono maior do planeta, além disso não é Europeu:;53
+15;1;6;15;O Brasil é de qual continente?;57
+16;1;9;16;Qual desses países não é ilha?;61
+17;1;7;17;Quantos países tem a América ao todo?;65
+18;1;5;18;Além da Turquia, qual o outro país que esta presente em dois continentes?;69
+19;1;9;19;Qual é o maior mar da superfície terrestre?;73
+20;1;11;20;Pálacio construido na segunda metade do século XIX, o Castelo de Neuschwanstein está localizado em qual páis Europeu?;77
+21;2;8;8;Durante a primeira república brasileira, qual foi o primeiro presidente eleito de forma direta?;81
+22;2;6;6;Quando a primeira presidente mulher começou o seu mandato no Brasil?;85
+23;2;5;2;"Cinquenta anos em cinco" foi o bordão de qual presidente brasileiro?;89
+24;2;7;12;Qual grupo realizou a Revolução Russa de fevereiro de 1917?;93
+25;2;8;3;Quem foi eleito após a Revolução Burguesa de 1917?;97
+26;2;9;1;Em que mês foi realizada a Revolução Burguesa de 1917?;101
+27;2;13;13;Conjunto das forças da Alemanha na Líbia durante a Segunda Guerra Mundial, Africa Korps, foi comandada por:;105
+28;2;11;14;Como ficou conhecida a batalha com o maior número de tanques da história?;109
+29;2;8;18;Qual grupo social responsável pelo trabalho produtivo no feudo?;113
+30;2;7;2;Qual a instituição religiosa que controlava a mentalidade social durante o feudalismo?;117
+31;2;9;9;Qual era o nome dado a unidade de produção do feudalismo?;121
+32;2;5;4;Nome do pacto estabelecido entre o Susserano e o Vassalo?;125
+33;2;6;17;Qual era o chefe político do feudo?;129
+34;2;12;16;Em qual cidade ocorreu a Revolta da Vacina?;133
+35;2;8;15;Qual presidente foi vítima do golpe de 1964?;137
+36;2;9;5;A Abolição da Escravatura foi o acontecimento histórico mais importante do Brasil. No dia 13 de maio de 1888, após seis dias de votações e debates no Congresso, assinou a Lei Áurea, que decretava a libertação dos escravos no país:;141
+37;2;7;7;Quando se deu início ao Regime Militar no Brasil?;145
+38;2;6;20;Quando foi descoberto o Brasil?;149
+39;2;10;10;Até que ano durou a Ditadura Militar?;153
+40;2;8;9;Que data foi marcado como o fim da segunda guerra mundial?;157
+41;3;8;1;Quantos dentes um adulto formado possui ao total?;161
+42;3;9;2;Qual o orgão principal responsável pela circulação do sangue?;165
+43;3;10;3;Como se chama a parte do olho responsável por sua coloração?;169
+44;3;7;4;Onde se localiza o menor osso do corpo humano, o Estribo?;173
+45;3;6;5;Qual dessas partes do corpo não faz parte do Sistema Respiratório?;177
+46;3;5;6;Quantas costelas é formado o corpo humano?;181
+47;3;5;7;Qual o nome do tecido gelatinoso que preenche a cavidade interna de vários ossos?;185
+48;3;6;8;O que compõe o sistema nervoso periférico?;189
+49;3;8;9;Qual o nome dado ao principal meio de condução do sangue humano pelo corpo?;193
+50;3;10;10;Qual o maior osso encontrado no corpo humano?;197
+51;3;11;20;Qual orgão do corpo humano é produzido o suco gástrico?;201
+52;3;6;19;Onde é armazenado o glicogênio produzido no corpo humano?;205
+53;3;7;18;Onde ocorre a fotossíntese em uma arvore?;209
+54;3;8;17;Onde pode ser encontrado o lipídio acido hialurônico?;213
+55;3;9;16;Quais são as pentoses ligadas com os ácidos nucleicos?;217
+56;3;12;15;O que significa DNA?;221
+57;3;8;14;O DNA é constituido por?;225
+58;3;7;13;Processo no qual a célula mãe se divide em outras duas células filhas:;229
+59;3;6;12;Enzimas que aceleram e regulam os processos vitais:;233
+60;3;6;11;Qual o sistema responsável pela liberação de resíduos do corpo humano?;237
+61;4;6;2;Em qual ano foi lançado o Grand Theft Auto V?;241
+62;4;7;4;Em qual ano foi lançado o Doom?;245
+63;4;8;6;Em qual ano foi lançado o Tetris?;249
+64;4;9;8;O jogo "Donkey Kong" foi desenvolvido inicialmente com qual personagem?;253
+65;4;6;10;Quantos fantasmas estão escondidos no primeiro Metal Gear Solid?;257
+66;4;6;12;Quando a Nintendo foi fundada?;261
+67;4;7;14;Como seria o nome originalmente dado ao Pac-Man?;265
+68;4;12;16;Qual foi o primeiro console de jogos desenvolvido?;269
+69;4;11;18;Qual empresa desenvolveu o "Starcraft" de 1998?;273
+70;4;10;20;Quem foi o dublador do personagem Mario da nintendo?;277
+71;4;9;1;Quem foi o dublador do persosagem Leon em Resident Evil 4?;281
+72;4;8;3;Quando Nolan Bushnell vendeu a Atari para a Warner?;285
+73;4;7;5;Qual é o segundo jogo mais vendido no mundo segundo a revista Forbes?;289
+74;4;5;7;Quem foi a desenvolvedora do Virtual Boy em 1995?;293
+75;4;5;9;Quem foi a desenvolvedora do Sonic The Hedgehog?;297
+76;4;6;11;Em qual jogo desenvolvida pela Naughty Dogs encontramos o personagem Ellie?;301
+77;4;6;13;Quem é o principal fundador da Valve?;305
+78;4;5;15;Quando o jogo Need for Speed foi lançado?;309
+79;4;9;17;Sequencia direta do primeiro jogo, totalmente programado, porém nunca foi lançado ao publico. Posteriormente seu código fonte foi utilizado para a criação da sua versão do Nintendo 64. A qual jogo se refere essa descrição?;313
+80;4;12;19;Em qual jogo de tabuleiro é baseado o "War" da Glow?;317
+81;5;5;1;A expressão "Common Business Oriented Language" é utiliza para descrever a linguagem de programação?;321
+82;5;6;3;O FONTRAN é uma linguagem de programação desenvolvida por uma equipe da IBM em 1954, quem chefiou essa esquipe para o desenvolvimento dessa linguagem?;325
+83;5;7;5;COBOL é uma linguagem de programação desenvolvida em 1959 por Grace Murray Hopper. Todas as linguagens de programação são antecessoras à ela, exceto:;329
+84;5;6;9;Quem foi o responsável pela tradução das memórias do matemático Luigi Menabrea durante o período de 1842 a 1843?;333
+85;5;8;11;Considerada uma das primeiras linguagens de programação de sistemas, desenvolvida por Dennis Ritchie e Ken Thompson:;337
+86;5;6;13;Qual linguagem de programação foi desenvolvida pela Google por Robert Griesemer, Rob Pike e Ken Thompson em 2009?;341
+87;5;7;15;As linguagens de alto nível podem ser utilizadas para diversas aplicações, sendo elas genéricas e específicas. Qual linguagem abaixo não é específica?;345
+88;5;9;17;Atualmente, a tabela ASCII (American Standart Code for Information Interchange) possui quantos códigos?;349
+89;5;10;19;Considerados como precursores da programação estruturada após publicarem uma teoria em 1966:;353
+90;5;7;2;É uma linguagem de programação de alto nível, cuja filosofia de design enfatiza a facilidade de uso. A qual linguagem de programação se refere essa característica?;357
+91;5;8;4;Quais foram as duas linguagens de programação utilizadas para desenvolver o sistema operacional Linux?;361
+92;5;9;6;A linguagem de programção orientada à objetos, C#, foi desenvolvida no ano de:;365
+93;5;5;8;Inteiramente projetada, implementada e desenvolvida no Brasil em 1993, Roberto Ierusalimschy, Luiz Henrique de Fiqueiredo e Waldemar Celes deram luz a qual linguagem de programação?;369
+94;5;6;10;São exemplos de linguagem de programação de alto nível, exceto:;373
+95;5;5;12;As linguagens de alto nível podem ser aplicadas para desenvolver tarefas específicas. LISP foi desenvolvida em 1958 e tinha como principal finalidade a elaboração de:;377
+96;5;5;14;São exemplos de funções da biblioteca stdio.h em C, exceto:;381
+97;5;7;16;Atualmente é uma das linguagens de programação mais utilizadas no planeta, Java, foi vendida para a Oracle em 2009. Quem detinha os direitos da sua elaboração antes de ser vendida?;385
+98;5;8;18;Linguagem de programação considerada de baixo nível:;389
+99;5;11;20;Qual data foi lançado o Java SE 7?;393
+100;5;9;7;Henri Bal e Dick Grune apresentaram uma classificação das gerações das linguagens de programação, todas com um aspecto de aplicação específico. A qual aspecto de aplicação é enfatizado na quinta geração?;397
+101;6;6;1;O Estado Islâmico, fundado em 1999, é uma organização arábica jihadista islamita que segue uma doutrina fundamentalista wahhabi do islamismo sunita. Seu principal lider entrou para o grupo em 2003, qual o nome desse lider religioso?;401
+102;6;9;2;Qual grupo terrorista também conhecido como ISIS e ISIL atua em regiões como Iraque, Síria e Líbia?;405
+103;6;8;4;O Observatório Sírio de Direitos Humanos (OSDH) afirmou no dia 11 de julho de 2017 que o líder supremo de um poderoso grupo terrorista esta morto. Qual grupo esse lider pertencia?;409
+104;6;7;8;Atualmente ameaça realizar ataques nucleares aos Estados Unidos, com o propósito de agir preventinamente contra possiveis vindas de tropas militares para o país:;413
+105;6;8;6;Repreende brutalmente as imobilizações que tomaram conta do país depois que convocou eleições para criar uma assembléia constituinte:;417
+106;6;5;2;A eleição para o quadragésimo quinto presidente dos Estados Unidos, disputado com Hillary Clinton, protagonizou uma das maiores disputadas e agressivas eleições já vistas. Quem foi o presidente eleito neste eleição presidencial?;421
+107;6;5;6;Após uma pesquisa de liderança para  verificar qual candidato esta à frente para assumir a presidência do Quênia, apontou-se que o líder da pesquisa encontra-se com cerce de 54,69%. Com base nessas informações, quem esta liderando esse resultado provisório?;425
+108;6;6;7;Contrariando pesquisas, previsões e surpreendendo à todos, Donald Trump foi eleito presidente dos Estado-s Unidos. Em que ano foi consagrado sua presidência?;429
+109;6;9;8;Nos últimos meses, milhares de refugiados e pleiteantes do asilo chegam as fronteiras deste continente, a maioria fugindo das guerras, pobreza e violência encontrados em seu país de origem. Que continente esta abrigando a maior parte destes refugiados?;433
+110;6;7;9;De acordo com o relatório desenvolvido pela ACNUR em 2014, qual país abriga o maior número de refugiados no mundo?;437
+111;6;8;11;Segundo a classificação desenvolvida pela World Resources Institute (WRI) apontou os principais potências econômicas poluidoras no mundo. Qual páis encontra-se na primeira colocação?;441
+112;6;6;15;Qual setor da econômia é responsável por cerca de 15,4% do gases responsáveis pelo efeito estufa?;445
+113;6;7;16;Engenheiro biomédico e neurocientista da Universiade do Sul da Califórnia, foi responsável pela criação de um microchip responsável pela restauração da memória humana atráves a imitação da movimentação dos neurônios:;449
+114;6;7;18;A França é um dos países que tem sido alvo de dezenas de atentados ligados ao islâmisco nos últimos tempos. Em que cidade ocorreu o atentado com um caminhão em julho de 2016 que deixou 84 feiros e 18 mortos?;453
+115;6;5;20;Qual empresa foi responsável pela delação do atual presidente Michel Temer no Brasil?;457
+116;6;9;10;Por quantos votos foram confirmados o afastamento da primeira presidente mulher do Brasil, Dilma Rousseff?;461
+117;6;6;19;Qual país europeu sofreu com um atentado terrorista em dezembro de 2016, deixando 86 mortos e cerca de 400 pessoas feridas?;465
+118;6;6;14;O que o movimento brasileiro "vem pra rua" busca em suas manifestações em todo o território brasileiro?;469
+119;6;9;16;Quem é o atual prefeito de São Paulo, eleito nas eleições de 2017 com cerca de 53,29% dos votos válidos?;473
+120;6;9;19;Cientistas do Instituto de Tecnologia da Califórnia estão trabalhando na criação de um dispositivo capaz de converter cerca de 20% a mais de energia elétrica e cerca de 50% mais eficaz. Qual tipo de energiá esta sendo utilizado por tal dispositivo?;477
